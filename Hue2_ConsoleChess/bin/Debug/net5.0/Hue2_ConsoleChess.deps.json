@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hue2_ConsoleChess/1.0.0": {
+        "runtime": {
+          "Hue2_ConsoleChess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hue2_ConsoleChess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

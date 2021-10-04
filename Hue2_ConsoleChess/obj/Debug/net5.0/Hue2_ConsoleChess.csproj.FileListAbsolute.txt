@@ -1,0 +1,16 @@
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\bin\Debug\net5.0\Hue2_ConsoleChess.exe
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\bin\Debug\net5.0\Hue2_ConsoleChess.deps.json
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\bin\Debug\net5.0\Hue2_ConsoleChess.runtimeconfig.json
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\bin\Debug\net5.0\Hue2_ConsoleChess.runtimeconfig.dev.json
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\bin\Debug\net5.0\Hue2_ConsoleChess.dll
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\bin\Debug\net5.0\ref\Hue2_ConsoleChess.dll
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\bin\Debug\net5.0\Hue2_ConsoleChess.pdb
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.csproj.AssemblyReference.cache
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.AssemblyInfoInputs.cache
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.AssemblyInfo.cs
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.csproj.CoreCompileInputs.cache
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.dll
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\ref\Hue2_ConsoleChess.dll
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.pdb
+C:\Users\Gartenhaus\RiderProjects\HueSolutions\Hue2_ConsoleChess\obj\Debug\net5.0\Hue2_ConsoleChess.genruntimeconfig.cache

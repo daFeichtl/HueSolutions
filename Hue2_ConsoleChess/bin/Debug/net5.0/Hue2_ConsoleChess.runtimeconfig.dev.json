@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gartenhaus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gartenhaus\\.nuget\\packages"
+    ]
+  }
+}
